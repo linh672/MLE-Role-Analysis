@@ -42,7 +42,7 @@
 
 ## 2. What are the most common skills required for data-related jobs in the USA?
 
-![alt text](assets/2_Skill_Count.png/2.1_how_likely_skills_are_requested_in_US_job_postings.png)
+![alt text](assets/2_Skill_Count.png/2.1_how_likely_skills_are_requested_in_us_job_postings.png)
 
 ## Overview
 This report analyzes the prevalence of technical skills required across three major data-related roles in the US job market: **Data Analyst**, **Data Engineer**, and **Data Scientist**. The visualization shows how often specific tools and programming languages are mentioned in job postings, highlighting the key competencies expected for each role.
