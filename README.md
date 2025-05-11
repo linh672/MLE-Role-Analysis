@@ -19,7 +19,9 @@
 ## 1. What insights can we uncover from the Exploratory Data Analysis (EDA)?
 ### 🌍 Top Job Locations 
 
-![alt text](assets/1_EDA.png/1.1_top_job_locations.png)
+<p align="center">
+  <img src="assets/1_EDA.png/1.1_top_job_locations.png" alt="1_data_profession_table" width="1000">
+</p>
 
 - **"Anywhere"** is the most common location, supporting the growing prevalence of remote roles despite low WFH offers.
 - Top US cities include **San Francisco, Atlanta, New York**, and **Austin**, aligning with known tech hubs.
@@ -27,22 +29,28 @@
 
 ### 🎯 Job Features Offered 
 
-![alt text](assets/1_EDA.png/1.2_job_features_offered.png)
+<p align="center">
+  <img src="assets/1_EDA.png/1.2_job_features_offered.png" alt="1_data_profession_table" width="1000">
+</p>
 
 - **Work From Home**: Only **12.7%** of Machine Learning Engineer (MLE) jobs offer remote work options, indicating that most roles (87.3%) are still location-dependent.
 - **Degree Requirements**: A significant **95.9%** of MLE roles **do not** require a formal degree, suggesting a trend towards skill-based hiring in the ML space.
 - **Health Insurance**: Just **36.8%** of listings mention offering health insurance, potentially pointing to a large proportion of contract or freelance roles.
 
-### 🏢 Top Hiring Companies 
+### 🏢 Top Hiring Companies
 
-![alt text](assets/1_EDA.png/1.3_top_hiring_companies.png)
+<p align="center">
+  <img src="assets/1_EDA.png/1.3_top_hiring_companies.png" alt="1_data_profession_table" width="1000">
+</p>
 
 - **Upwork** leads as the top hiring platform for Machine Learning Engineers, followed by **Booz Allen Hamilton**, and **Dice**, indicating a strong presence of freelancing/contracting roles.
 - A mix of traditional companies (e.g., Ford, Apple) and staffing platforms (e.g., Insight Global) reflects varied employment structures from full-time to gig-based roles.
 
 ## 2. What are the most common skills required for data-related jobs in the USA?
 
-![alt text](assets/2_Skill_Count.png/2.1_how_likely_skills_are_requested_in_us_job_postings.png)
+<p align="center">
+  <img src="assets/2_Skill_Count.png/2.1_how_likely_skills_are_requested_in_us_job_postings.png" alt="1_data_profession_table" width="1000">
+</p>
 
 ## Overview
 This report analyzes the prevalence of technical skills required across three major data-related roles in the US job market: **Data Analyst**, **Data Engineer**, and **Data Scientist**. The visualization shows how often specific tools and programming languages are mentioned in job postings, highlighting the key competencies expected for each role.
@@ -67,7 +75,9 @@ This report analyzes the prevalence of technical skills required across three ma
 
 ## 3. Which skills was trending for Machine Learning Engineers in the USA in 2023?
 
-![alt text](assets/3_Skills_Trend/3.1_skill_trends_for_machine_learning_engineers_in_the_usa.png)
+<p align="center">
+  <img src="assets/3_Skills_Trend/3.1_skill_trends_for_machine_learning_engineers_in_the_usa.png" alt="1_data_profession_table" width="1000">
+</p>
 
 ## Overview
 This report visualizes the monthly demand trends of key technical skills required for **Machine Learning Engineer** roles across the USA during the year 2023. The chart tracks the likelihood (percentage) of each skill appearing in job postings, allowing for insights into evolving industry priorities.
@@ -97,7 +107,9 @@ This report visualizes the monthly demand trends of key technical skills require
 ## 🧠 Overview
 This analysis examines the **salary distribution** of data-related roles in the U.S., with a focus on **Machine Learning Engineers**. It utilizes visualized insights from salary distributions and skill-specific compensation data.
 
-![alt text](assets/4_Salary_Analysis/4.1_salary_distributions_in_the_us.png)
+<p align="center">
+  <img src="assets/4_Salary_Analysis/4.1_salary_distributions_in_the_us.png" alt="1_data_profession_table" width="1000">
+</p>
 
 
 ## 💵 Salary Distribution by Role
@@ -106,7 +118,9 @@ According to the box plot provided:
 - **Data Scientists** and **Data Engineers** follow closely, with median salaries between **$125K–$150K**.
 - While the chart doesn’t directly show “Machine Learning Engineer” as a label, they typically fall within or above the **Data Scientist** category in salary ranges due to overlapping skillsets and roles.
 
-![alt text](assets/4_Salary_Analysis/4.2_top_10__highest_paid_in_demand_skills%20_for_machine_learning_engineer.png)
+<p align="center">
+  <img src="assets/4_Salary_Analysis/4.2_top_10__highest_paid_in_demand_skills%20_for_machine_learning_engineer.png" alt="1_data_profession_table" width="1000">
+</p>
 
 ## 🛠️ Skills and Their Value in Machine Learning
 Two bar charts highlight:
@@ -115,7 +129,9 @@ Two bar charts highlight:
 
 ## 5. Which skills are the most optimal for maximizing salary as a Machine Learning Engineer in the USA?
 
-![alt text](assets/5_Optimal_Skills/5.1_most_optimal_skills_for_machine_learning_engineer_in_the_us.png)
+<p align="center">
+  <img src="assets/5_Optimal_Skills/5.1_most_optimal_skills_for_machine_learning_engineer_in_the_us.png" alt="1_data_profession_table" width="1000">
+</p>
 
 ## 📊 Overview
 This analysis identifies the **most optimal technical skills** for Machine Learning Engineers in the United States by comparing **median yearly salary** against **job demand** (percent of job postings).
